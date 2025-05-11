@@ -2,7 +2,7 @@
 
 A comprehensive real-time market data distribution system that simulates financial exchange data feeds using multicast networking. Capable of connecting to real cryptocurrency exchanges for live data or generating simulated market data.
 
-![System Dashboard](terminal_screenhot.png)
+![System Dashboard](terminal_Screenshot.png)
 
 ## Key Features
 
