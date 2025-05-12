@@ -3,7 +3,8 @@
 A comprehensive real-time market data distribution system that simulates financial exchange data feeds using multicast networking. Capable of connecting to real cryptocurrency exchanges for live data or generating simulated market data.
 
 
-![System Dashboard](https://github.com/sha393/Multicast-Market-Data-Feed-System/raw/main/terminal_Screenshot .png)
+![System Dashboard](https://raw.githubusercontent.com/sha393/Multicast-Market-Data-Feed-System/main/terminal_Screenshot.png)
+
 
 ## Key Features
 
